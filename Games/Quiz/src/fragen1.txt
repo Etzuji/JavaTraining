@@ -1,0 +1,6 @@
+Wie viel ist 5+4?
+Wieviel ist 3*5?
+Wieviel ist 7-3?
+Wieviel ist 6*4?
+Wieviel ist 45/3?
+null
